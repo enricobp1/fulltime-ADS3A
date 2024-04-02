@@ -1,0 +1,22 @@
+.um {
+    width: 10%;
+}
+
+.navbar-img {
+    max-width: 20%;
+    height: auto;
+}
+
+center {
+    margin-top: 100px;
+}
+
+.content-img {
+    margin-top: 10px;
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    border-radius: 40px;
+}

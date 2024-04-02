@@ -1,0 +1,35 @@
+.accordion {
+    margin-top: 80px;
+    
+
+}
+    .navbar-img {
+        max-width: 20%;
+        height: auto;
+    }
+ 
+    
+    body {
+        background-color: #c7c6c6; 
+    }
+    .navbar-brand {
+        margin-left: 600px; 
+    }
+
+    
+    .accordion-item {
+        border: none;
+    }
+    .img-circle {
+        border-radius: 30%;
+        width: 100px; 
+        height: 100px;
+    }
+
+
+.accordion-collapse {
+        transition: height 0.3s ease-in-out;
+    }
+.accordion-item {
+    margin-bottom: 10px;
+}
